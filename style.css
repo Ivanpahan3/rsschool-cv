@@ -1,0 +1,12 @@
+ h1   {color: blue;}
+        p    {color: red;}
+     body {
+  padding: 0 30px;
+    font-size: 16px;
+ line-height: 26px;
+ font-family: "Arial", sans-serif;
+ background:  url("https//pixabay.com/get/g6992fd7a2f6b588cf9c10b014bd269e994664c7fb8d1b86ab92a499449bb06157dbb4d8603d0b6538e01d17422cca8e6_1920.jpg") no-repeat top center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 36em
+  }
